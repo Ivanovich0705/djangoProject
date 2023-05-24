@@ -33,7 +33,7 @@ jobs:
         # Replace the placeholders with your VM's details
         SSH_HOST=20.55.19.247
         SSH_PORT=22
-        SSH_USERNAME=Ivanovich
+        SSH_USERNAME=ivanovich
         SSH_PASSWORD=IvanovichRoot1234
         APP_PORT=3001
         APP_PATH=/home/user/mlsa-django/
